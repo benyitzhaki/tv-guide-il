@@ -1,0 +1,22 @@
+{
+  "name": "tv-guide-il",
+  "version": "1.0.0",
+  "description": "Nodejs module to fetch the israeli tv guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benyitzhaki/tv-guide-il.git"
+  },
+  "author": "Ben Yitzhaki <ben.yitzhaki@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benyitzhaki/tv-guide-il/issues"
+  },
+  "homepage": "https://github.com/benyitzhaki/tv-guide-il#readme",
+  "dependencies": {
+    "htmlparser2": "^3.9.2"
+  }
+}
